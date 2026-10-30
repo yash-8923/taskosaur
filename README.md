@@ -911,11 +911,10 @@ This project is licensed under the Business Source License - see the [LICENSE](L
 
 ## Support
 
-- Email: support@taskosaur.com
-- Discord: [Join our community](https://discord.gg/5cpHUSxePp)
+
 - Issues: [GitHub Issues](https://github.com/yash-8923/taskosaur/issues)
 - Discussions: [GitHub Discussions](https://github.com/yash-8923/taskosaur/discussions)
 
 ---
 
-Built with love by the Taskosaur team
+Built with love 
