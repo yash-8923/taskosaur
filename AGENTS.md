@@ -308,7 +308,7 @@ When working on Taskosaur as an AI agent:
 
 ## Support
 
-- GitHub Issues: https://github.com/Taskosaur/Taskosaur/issues
-- GitHub Discussions: https://github.com/Taskosaur/Taskosaur/discussions
+- GitHub Issues: https://github.com/yash-8923/taskosaur/issues
+- GitHub Discussions: https://github.com/yash-8923/taskosaur/discussions
 - Discord: https://discord.gg/5cpHUSxePp
 - Email: support@taskosaur.com

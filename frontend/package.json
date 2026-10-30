@@ -5,7 +5,7 @@
   "author": "Taskosaur Team",
   "type": "module",
   "private": true,
-  "license": "SEE LICENSE IN https://github.com/Taskosaur/Taskosaur/blob/main/LICENSE.md",
+  "license": "SEE LICENSE IN https://github.com/yash-8923/taskosaur/blob/main/LICENSE.md",
   "scripts": {
     "dev": "node server.js",
     "build": "next build",

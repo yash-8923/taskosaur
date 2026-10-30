@@ -6,7 +6,7 @@
 
 ### 📹 Watch Taskosaur in Action
 
-[![Taskosaur Demo - AI Turns Simple Requests Into Complete Projects](https://img.youtube.com/vi/sv2lsteRKac/maxresdefault.jpg)](https://youtu.be/sv2lsteRKac)
+[![Taskosaur Demo - AI Turns Simple Requests Into Complete Projects](https://img.youtube.com/vi/sv2lsteRKac/maxresdefault.jpg)](https://youtu.be/ubAIN8FcCzk)
 
 *Click to watch: See how Conversational AI Task Execution works in Taskosaur*
 
@@ -68,7 +68,7 @@ The fastest way to get started with Taskosaur is using Docker Compose:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Taskosaur/Taskosaur.git taskosaur
+   git clone https://github.com/yash-8923/taskosaur.git taskosaur
    cd taskosaur
    ```
 
@@ -106,7 +106,7 @@ If you prefer to run services locally:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Taskosaur/Taskosaur.git taskosaur
+   git clone https://github.com/yash-8923/taskosaur.git taskosaur
    cd taskosaur
    ```
 
@@ -578,7 +578,7 @@ _Taskosaur is actively under development. The following features represent our p
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Taskosaur/Taskosaur.git taskosaur
+   git clone https://github.com/yash-8923/taskosaur.git taskosaur
    cd taskosaur
    ```
 
@@ -788,7 +788,7 @@ taskosaur/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Taskosaur/Taskosaur.git taskosaur
+git clone https://github.com/yash-8923/taskosaur.git taskosaur
 cd taskosaur
 
 # Setup environment variables
@@ -913,8 +913,8 @@ This project is licensed under the Business Source License - see the [LICENSE](L
 
 - Email: support@taskosaur.com
 - Discord: [Join our community](https://discord.gg/5cpHUSxePp)
-- Issues: [GitHub Issues](https://github.com/Taskosaur/Taskosaur/issues)
-- Discussions: [GitHub Discussions](https://github.com/Taskosaur/Taskosaur/discussions)
+- Issues: [GitHub Issues](https://github.com/yash-8923/taskosaur/issues)
+- Discussions: [GitHub Discussions](https://github.com/yash-8923/taskosaur/discussions)
 
 ---
 

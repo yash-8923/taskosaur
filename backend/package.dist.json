@@ -4,7 +4,7 @@
   "description": "Taskosaur Backend - NestJS API Server",
   "author": "Taskosaur Team",
   "private": true,
-  "license": "SEE LICENSE IN https://github.com/Taskosaur/Taskosaur/blob/main/LICENSE.md",
+  "license": "SEE LICENSE IN https://github.com/yash-8923/taskosaur/blob/main/LICENSE.md",
   "main": "main.js",
   "scripts": {
     "start": "node main.js",

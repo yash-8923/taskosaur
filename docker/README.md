@@ -4,7 +4,7 @@
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/taskosaur/taskosaur)](https://hub.docker.com/r/taskosaur/taskosaur)
 [![Docker Image Size](https://img.shields.io/docker/image-size/taskosaur/taskosaur/latest)](https://hub.docker.com/r/taskosaur/taskosaur)
-[![License](https://img.shields.io/badge/license-BSL-blue.svg)](https://github.com/Taskosaur/Taskosaur/blob/main/LICENSE.md)
+[![License](https://img.shields.io/badge/license-BSL-blue.svg)](https://github.com/yash-8923/taskosaur/blob/main/LICENSE.md)
 
 **Official Docker image for Taskosaur** - An open source project management platform with conversational AI for task execution in-app that lets you manage projects through natural conversation directly within the application.
 
@@ -350,9 +350,9 @@ ports:
 
 ## Links
 
-- **GitHub**: https://github.com/Taskosaur/Taskosaur
-- **Documentation**: https://github.com/Taskosaur/Taskosaur#readme
-- **Issues**: https://github.com/Taskosaur/Taskosaur/issues
+- **GitHub**: https://github.com/yash-8923/taskosaur
+- **Documentation**: https://github.com/yash-8923/taskosaur#readme
+- **Issues**: https://github.com/yash-8923/taskosaur/issues
 - **Discord**: https://discord.gg/5cpHUSxePp
 - **License**: Business Source License (BSL)
 
@@ -360,7 +360,7 @@ ports:
 
 - Email: support@taskosaur.com
 - Discord: [Join our community](https://discord.gg/5cpHUSxePp)
-- GitHub Issues: [Report bugs](https://github.com/Taskosaur/Taskosaur/issues)
+- GitHub Issues: [Report bugs](https://github.com/yash-8923/taskosaur/issues)
 
 ---
 
